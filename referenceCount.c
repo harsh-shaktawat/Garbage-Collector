@@ -48,24 +48,3 @@ int main(){
     print_heap();
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//gcc heapSchema.c referenceCount.c heapSchema.h
