@@ -1,2 +1,2 @@
 # Garbage-Collector
-This repository contains code files for garbage collection using reference count algorithm and mark sweep method 
+This repository contains code files for garbage collection using reference count and mark sweep algorithm 
