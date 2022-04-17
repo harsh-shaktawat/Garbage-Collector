@@ -48,4 +48,3 @@ int main(){
     print_heap();
     return 0;
 }
-//gcc heapSchema.c markSweep.c heapSchema.h
